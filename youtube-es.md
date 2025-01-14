@@ -1,24 +1,25 @@
 # Añadir vídeo youtube a GoVideo
 
 ## Paso 1: Ir a la aplicación de Youtube
-1. Buscar el canal que queremos añadir
-![Paso 1](images/youtube-1.PNG)
-2. Pulsar en el botón superior derecha
-![Paso 2](images/youtube-2.PNG)
-3. Darle al botón de compartir
-![Paso 3](images/youtube-3.PNG)
-4. Copiar URL del canal
-![Paso 4](images/youtube-4.PNG)
+1. Buscar el canal que queremos añadir  
+   <img src="images/youtube-1.PNG" alt="Paso 1" width="300">
+2. Pulsar en el botón superior derecha  
+   <img src="images/youtube-2.PNG" alt="Paso 2" width="300">
+3. Darle al botón de compartir  
+   <img src="images/youtube-3.PNG" alt="Paso 3" width="300">
+4. Copiar URL del canal  
+   <img src="images/youtube-4.PNG" alt="Paso 4" width="300">
 
 ## Paso 2: Añadir el canal de youtube en GoVideo
-1. En la Home darle al botón
-2. Seleccionar el tipo Youtube
-3. Pegar URL del canal de youtube
-![Paso 5](images/youtube-5.PNG)
-4. Darle al botón de guardar canal
-![Paso 6](images/youtube-6.PNG)
+1. En la Home darle al botón  
+   <img src="images/youtube-5.PNG" alt="Paso 5" width="300">
+2. Seleccionar el tipo Youtube  
+3. Pegar URL del canal de youtube  
+   <img src="images/youtube-6.PNG" alt="Paso 6" width="300">
+4. Darle al botón de guardar canal  
+   <img src="images/youtube-6.PNG" alt="Paso 6" width="300">
 
-![Vídeos](images/youtube-7.PNG)
+   <img src="images/youtube-7.PNG" alt="Vídeos" width="300">
 
 ## Descargar aplicación
 - [Enlace en la App Store](https://apps.apple.com/es/app/govideo/id6467807623)
